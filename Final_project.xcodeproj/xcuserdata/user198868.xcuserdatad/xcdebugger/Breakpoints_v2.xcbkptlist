@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A23BF632-95B4-4057-AF56-0F6E51100310"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D211227F-EAA1-40A0-BCA8-961B75B3C4C4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final_project/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D211227F-EAA1-40A0-BCA8-961B75B3C4C4 - 435578ab80b4cdc9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_project.ViewController.categories.getter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "Final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user198868/Desktop/final_project_ios_advanced_group3-Pedro-Versions/Final_project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "D211227F-EAA1-40A0-BCA8-961B75B3C4C4 - 31cf6d4e6ce004f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_project.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Final_project.ViewController"
+                  moduleName = "Final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user198868/Desktop/final_project_ios_advanced_group3-Pedro-Versions/Final_project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "D211227F-EAA1-40A0-BCA8-961B75B3C4C4 - 8fca0afd34959b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Final_project.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Final_project.ViewController&gt;"
+                  moduleName = "Final_project"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user198868/Desktop/final_project_ios_advanced_group3-Pedro-Versions/Final_project/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "122">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6751E334-AA97-4DD6-A0AA-0004931D693F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Final_project/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
